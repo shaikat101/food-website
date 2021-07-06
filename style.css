@@ -6,7 +6,7 @@ h1{
     font-size: 35px;
 }
 
-section{
+.top-bottom-flexible{
     display: flex;
     margin-bottom: 150px;
 }
@@ -55,4 +55,37 @@ section{
  }
 
 
+ .recipies-heading{
+     text-align: center;
+ }
+ .bottom-box{
+    display: flex;
+    margin-bottom: 150px;
+}
  
+ .Jimmy-Dean-photo{
+    width: 56%;
+    padding-left: 80px;
+    border-radius: 20px;
+
+}
+.beef-photo{
+   width: 63%;
+   padding-left: 50px;
+   border-radius: 10px;
+}
+.soup-photo{
+   width: 90%;
+   padding-left: 30px;
+}
+.jimmy-dean{
+    padding-left: 80px;
+    padding-right: 30px;
+}
+.beef{ 
+    padding-left: 50px;
+    padding-right: 30px;
+}
+.soup{
+    padding-left: 40px;
+}
