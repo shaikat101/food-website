@@ -60,7 +60,7 @@ h1{
  }
  .bottom-box{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
  
  .Jimmy-Dean-photo{
@@ -88,4 +88,9 @@ h1{
 }
 .soup{
     padding-left: 40px;
+}
+.food-footer{
+    text-align: center;
+    background-color: black;
+    color: white;
 }
