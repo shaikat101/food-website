@@ -60,37 +60,29 @@ h1{
  }
  .bottom-box{
     display: flex;
+    width: 80%;
     margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
  
- .Jimmy-Dean-photo{
-    width: 56%;
-    padding-left: 80px;
-    border-radius: 20px;
+.bottom-box-photo{
+    width: 100%;
+}
+ 
 
-}
-.beef-photo{
-   width: 63%;
-   padding-left: 50px;
-   border-radius: 10px;
-}
-.soup-photo{
-   width: 90%;
-   padding-left: 30px;
-}
-.jimmy-dean{
-    padding-left: 80px;
-    padding-right: 30px;
-}
-.beef{ 
-    padding-left: 50px;
-    padding-right: 30px;
-}
-.soup{
-    padding-left: 40px;
+.botoom-box-item{
+    width: 30%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    box-shadow: 10px 10px 30px grey;
+    padding: 1% ;
+    border-radius: 15px;
 }
 .food-footer{
-    text-align: center;
-    background-color: black;
+    background-color:black;
     color: white;
+    text-align: center;
+
 }
+
