@@ -20,15 +20,38 @@ h1{
 
 .top-box{
     width: 50%;
-    padding-left: 120px;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 5%;
+;
+    
 }
 
 .top-box-image{
- width: 100%;
+ width: 90%;
+ margin-right: 8%;
+ margin-top: 5%;
+;
 }
+#middle-box-image{
+    width: 80%;
+    padding-left: 5%;
+    margin-top: 8%;
+
+}
+#middle-box{
+    width: 100%;
+    padding:10px;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
 .image-design{
-    width: 50%;
+    width: 70%;
     padding-left: 130px;
+    margin-bottom: 10%;
 }
 
 .order-anchor{
@@ -95,7 +118,18 @@ h1{
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
-    box-shadow: 10px 10px 30px grey;
     border-radius: 15px;
+    box-shadow: 10px 10px 20px grey;
+}
+.bottom-box-new{
+    width: 30%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    padding: 1% ;
+    border-radius: 10px;
+    text-align: center;
+}
+.new-section{
+    margin-bottom: 100px;
 }
 
